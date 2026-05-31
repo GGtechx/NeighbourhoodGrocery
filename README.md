@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Neighbourhood Grocery — Full-Stack Delivery & Inventory Platform
 
 A production-grade full-stack web application that equips neighbourhood grocery stores with **demand forecasting**, **personalized recommendations**, **dynamic expiry-aware pricing**, and **last-mile delivery tracking** — all from one modern, role-based dashboard.
@@ -218,3 +219,6 @@ Customer: customer@demo.local / password123
 Store owner: owner@store.local / password123
 Admin: admin@neighbourhood.local / password123
 Delivery: delivery@demo.local / password123
+=======
+# NeighbourhoodGrocery
+>>>>>>> 3f989e97dbcb2e3e4ebe6da0bd6cfbacede33f41
